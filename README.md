@@ -1,2 +1,2 @@
-# Emergent-
-Arapça yazma öğrenme
+# cinogen-
+yapay zeka gelişimi 
